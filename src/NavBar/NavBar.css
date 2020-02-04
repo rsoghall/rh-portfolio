@@ -1,0 +1,65 @@
+.navbar-content {
+    display: flex;
+    justify-content: space-evenly;
+    height: 6rem;
+}
+
+.navbar-github {
+    margin-top: 1rem;
+}
+
+.navbar-github img {
+    width: 135px;
+}
+
+.navbar-linkedin {
+margin-top: 1rem;
+}
+
+.navbar-linkedin img{
+    margin-top: 1.3rem;
+    width: 175px;
+}
+
+.navbar-da {
+    margin-top: 1rem;
+    }
+    
+.navbar-da img{
+    margin-top: .5rem;
+    width: 122px;
+    }
+
+
+
+.navbar-mwvo {
+    margin-top: 1.3rem;
+    }
+        
+.navbar-mwvo img{
+    width: 168px;
+    }
+    
+.navbar-shift {
+    margin-top: 1rem;
+    }
+            
+.navbar-shift img{
+    width: 254px;
+    }
+
+.navbar-rhit {
+    margin-top: 1rem;
+    }
+                
+.navbar-rhit img{
+    width: 100px;
+    }
+    
+a:link {
+    text-decoration: none;
+}
+
+a:hover{
+    margin-top: .5rem;
+}
