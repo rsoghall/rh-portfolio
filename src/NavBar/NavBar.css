@@ -1,7 +1,10 @@
-.navbar-content {
+.navbar-links {
+    height: 6rem;
+    border-top: solid 1px white;
+    border-bottom: solid 1px white;
     display: flex;
     justify-content: space-evenly;
-    height: 6rem;
+
 }
 
 .navbar-github {
@@ -13,7 +16,7 @@
 }
 
 .navbar-linkedin {
-margin-top: 1rem;
+    margin-top: 1rem;
 }
 
 .navbar-linkedin img{
@@ -23,43 +26,42 @@ margin-top: 1rem;
 
 .navbar-da {
     margin-top: 1rem;
-    }
+}
     
 .navbar-da img{
     margin-top: .5rem;
     width: 122px;
-    }
-
-
+}
 
 .navbar-mwvo {
     margin-top: 1.3rem;
-    }
+}
         
 .navbar-mwvo img{
     width: 168px;
-    }
+}
     
 .navbar-shift {
     margin-top: 1rem;
-    }
+}
             
 .navbar-shift img{
     width: 254px;
-    }
+}
 
 .navbar-rhit {
     margin-top: 1rem;
-    }
-                
-.navbar-rhit img{
-    width: 100px;
-    }
+}
+
+.navbar-rhit img {
+    margin: 1rem;
+    width: 75px;
+}
     
 a:link {
     text-decoration: none;
 }
 
-a:hover{
+.navbar-links a:hover{
     margin-top: .5rem;
 }

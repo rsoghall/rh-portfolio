@@ -1,0 +1,79 @@
+.player {
+    height: 65rem;
+}
+.player-wrapper {
+    display: flex;
+    justify-content: space-around; 
+    width: 90%;
+    margin: auto;
+    padding-top: 5rem;
+}
+
+.player-links-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.player-DAlink {
+    margin-top: .5rem;
+    margin-left: 11.75%;
+    width: 31%;
+    text-align: center;
+}
+
+.player-DAlink a {
+    color: white;
+    text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+    text-align: center;
+    line-height: 3rem;
+    font-size: 1.25rem;
+    border-top: solid 1px rgba(248, 244, 244, 0.527);
+    border-bottom: solid 1px rgba(248, 244, 244, 0.527);
+    font-weight: 500;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+    
+.player-MVlink {
+    margin-top: .5rem;
+    margin-right: 11.75%;
+    width: 31%;
+    text-align: center;
+}
+
+.player-MVlink a{
+    color: white;
+    text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+    text-align: center;
+    line-height: 3rem;
+    font-size: 1.25rem;
+    border-top: solid 1px rgba(248, 244, 244, 0.527);
+    border-bottom: solid 1px rgba(248, 244, 244, 0.527);
+    font-weight: 500;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.player-shift {
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+}
+
+.player-Shift-link {
+    text-align: center;
+}
+
+.player-Shift-link a {
+    color: white;
+    text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+    text-align: center;
+    line-height: 3rem;
+    font-size: 1.25rem;
+    border-top: solid 1px rgba(248, 244, 244, 0.527);
+    border-bottom: solid 1px rgba(248, 244, 244, 0.527);
+    font-weight: 500;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    
+}
