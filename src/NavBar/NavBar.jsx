@@ -9,7 +9,7 @@ import './NavBar.css';
 
 const NavBar = () => {
         return (
-            <div>
+            <div className="navbar">
                     <div className="navbar-rhit">
                         <img
                             src={RH}

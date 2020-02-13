@@ -1,68 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello,
 
-## Available Scripts
+This is my Portfolio website. I have had extensive experience in the IT industry over the last 24 years. Throughout the years, clients have often asked me to develop their websites or create Apps. In 2017, I decided to start focusing on Web Development. I was self-taught for a couple years making progress, but slowly. In 2019 I completed the DevMountain Immersive Web Development Course. I enjoyed the fast pace learning and studying 10 - 12 hours a day. While at DevMountain, I developed the website dianneadair.org for my person project and shiftradr.com as a group project. Dianne Adair Enrichment Programs is one of my clients who have asked me to development their website. They have 10 daycare centers throughout the San Francisco Bay Area. So, my little personal project at DevMountain has turned into a fully developed production website with databases, calendars, email, and login components. Since completing the DevMountain course. I have developed two production websites and currently in the process of working on two more websites for my clients.
 
-In the project directory, you can run:
+RyanHall-IT.com Website details:
 
-### `npm start`
+    Navbar
+        Logos for Websites I have developed. When you click on the Logo, the logo is linked to the URL of that website.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    Main
+        My Name and Title with a link to my About me page.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+    About Me
+        Brief description with picture. RESUME link to download my resume. Link to my Work Experience.
 
-### `npm test`
+    Work Experience
+        I have created videos of my websites walking through the functions of the website.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    dianneadair.org
+        Website is in production and used by 10 daycare centers. This orinally started as my Personal Project at DevMountain has grown into a fully functional website. I was awarded "Best Presentation" when presenting this website to the staff and students at DevMountain.
 
-### `npm run build`
+    mikewadevo.com
+        Website is in production and is used for marketing Mike Wade's Voice Over business. Provides information about Mike, testimonials from his clients, how to contact him, and Audio/Video Examples of his work.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    shiftradr.com
+        Website is not in production and was my group project at DevMountain. I presented the idea of this website to the class and it was one of four chosen from about 20 presentations.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Websites/App Currently being Developed:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    NebcoSales.com
+        Sales Rep Company in the San Francisco Bay Area. They would like a website which provides information to their clients about the products they represent and also allows the client to place purchase orders online. Sending the purchase orders to the Sales Rep via email.
 
-### `npm run eject`
+    HLG-LLP.com
+        Law Office in the San Francisco Bay Area specializing in Taxes and Estate Planning. Their current website is in Word Press and does not allow them flexibility in the design and function of the website. I am re-designing their website and adding login and database functionality so clients can login and retrieve their documents or upload documents securely in lieu of emailing the documents.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    A1c-Calculator APP
+        I am diabetic and have not found and App out there that I like to keep track of my daily Blood Glucose Numbers. Based on my numbers, the App also calculates my A1c level each day. I usually have to wait until I see a doctor and have an A1c blood test. My last A1c test result number provided by a doctor was 7.4. At the same time, my A1c-Calulator App was 7.7. I started this App while at DevMountain and recently picked it back up and have been working on it for the last couple months. The App is almost ready for production.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+     Additonal content to be added to my portfolio website:
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+        1. "Contact Me" section.
+        2. Description of both IT and Web Development Skills
+        3. List of Clients and Testimonials.

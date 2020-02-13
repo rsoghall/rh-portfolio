@@ -1,6 +1,10 @@
+.navbar {
+    display: flex;
+}
 .navbar-links {
+    width: 95%;
     height: 6rem;
-    border-top: solid 1px white;
+  
     border-bottom: solid 1px white;
     display: flex;
     justify-content: space-evenly;
@@ -50,12 +54,13 @@
 }
 
 .navbar-rhit {
-    margin-top: 1rem;
+    border-bottom: solid 1px white;
 }
 
 .navbar-rhit img {
     margin: 1rem;
-    width: 75px;
+    width: 60px;
+    
 }
     
 a:link {
