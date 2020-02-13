@@ -13,16 +13,18 @@ const About = () => {
                             src={Ryan}
                             alt="Ryan"
                         />
-                        <div className="about-download">
-                            click to download
+                        <div className="about-resume-wrap">
+                            <div className="about-download">
+                                click to download
+                            </div>
+                            <a
+                                className="about-resume"
+                                target='_blank'
+                                rel="noopener noreferrer"
+                                href="https://dianne-adair-s3.s3.amazonaws.com/a413a625-1b04-4a1e-a897-2a2c52e0310a-Ryan-Hall-Resume.pdf">
+                                Resume
+                            </a>
                         </div>
-                        <a
-                            className="about-resume"
-                            target='_blank'
-                            rel="noopener noreferrer"
-                            href="https://dianne-adair-s3.s3.amazonaws.com/a413a625-1b04-4a1e-a897-2a2c52e0310a-Ryan-Hall-Resume.pdf">
-                            Resume
-                        </a>
                         <p className="about-text">
                             I have always loved to build and fix things. After 24 years of experience in the IT industry, 
                             and repeated requests from clients to build websites and/or apps, I discovered a new passion 
