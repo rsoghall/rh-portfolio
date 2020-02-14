@@ -5,7 +5,7 @@ header {
     color: white;
     text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
     text-align: center;
-    margin-top: 5rem;
+    margin-top: 7rem;
     margin-bottom: 5rem;
     display: flex;
     flex-direction: column;
@@ -14,7 +14,7 @@ header {
 #main-header header h1 {
     margin: auto;
     font-weight: 600;
-    font-size: 2em;
+    font-size: 3.5rem;
     letter-spacing: 10px;
     text-transform: uppercase;
     line-height: 1.75em;
